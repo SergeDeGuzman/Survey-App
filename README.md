@@ -1,6 +1,6 @@
 # **Survey Questionnaire**
 
-This is a Laravel-based web application designed to create, manage, and analyze surveys or questionnaires.
+This is a Laravel-based web application designed to create, manage, and analyze surveys or questionnaires. This project uses PHP with Laravel and Blade because PHP is a versatile language well-suited for web development.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
