@@ -4,6 +4,8 @@ This is a Laravel-based web application designed to create, manage, and analyze 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+Laravel was chosen for its powerful features like routing, authentication, and database management, which make backend development faster and more efficient. Blade, Laravel's built-in templating engine, allows for clean and reusable templates, making it easier to create dynamic and user-friendly interfaces. Using both together ensures the project is well-structured, scalable, and easy to maintain.
+
 **Key Features**
 
 User Authentication: Secure login and registration for survey creators.
