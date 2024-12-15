@@ -2,6 +2,8 @@
 
 This is a Laravel-based web application designed to create, manage, and analyze surveys or questionnaires.
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 **Key Features**
 
 User Authentication: Secure login and registration for survey creators.
@@ -20,9 +22,8 @@ https://github.com/user-attachments/assets/ae1a9532-1566-457b-9635-fab3fccfe9e1
 
 Response Collection: Allow users to submit their responses to survey with missing picked choice handling.
 
-Result Analysis: View and analyze survey results in real time.
+https://github.com/user-attachments/assets/53253123-9233-4af5-8a96-f930a10726fd
 
-Admin Panel: Manage users, surveys, and system settings via a dedicated admin interface.
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 
