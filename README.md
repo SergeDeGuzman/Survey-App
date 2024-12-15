@@ -8,7 +8,7 @@ User Authentication: Secure login and registration for survey creators.
 
 https://github.com/user-attachments/assets/5af63b7d-ea68-4a4a-b337-bba08e1332cd
 
-https://github.com/user-attachments/assets/14899031-9bf6-4df4-a74e-3d73fd7d096e
+https://github.com/user-attachments/assets/73f27aae-230d-4b64-a78b-bfaa4265ec85
 
 Survey Management: Create, edit, and delete surveys or questionnaires with multiple choices.
 
